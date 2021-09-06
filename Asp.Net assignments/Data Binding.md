@@ -9,9 +9,9 @@ User can bind the data with the controls of the forms. This process is known as 
 
 1.simple data binding :
 
---In simple data binding, the control is bounded to a data set. 
---The properties of the control are used for binding with the value. 
---Depending on the control to be bounded, the binding’s property is set.
+- In simple data binding, the control is bounded to a data set. 
+- The properties of the control are used for binding with the value. 
+- Depending on the control to be bounded, the binding’s property is set.
 
 example:
 
@@ -34,8 +34,8 @@ protected void Show_Click(object sender, EventArgs e)
 
 2.Declarative data binding:
 
---The process of binding a component like listbox, DataGrid, record list with the dataset is known as declarative binding. 
---When there is more than one element in the database, the declarative binding is used.
+- The process of binding a component like listbox, DataGrid, record list with the dataset is known as declarative binding. 
+- When there is more than one element in the database, the declarative binding is used.
 
 Example:
 
